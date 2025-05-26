@@ -8,5 +8,4 @@
     </linearGradient>
   </defs>
   <rect width="1920" height="1080" fill="url(#bgGrad)"/>
-  <text x="960" y="540" font-family="Arial, sans-serif" font-size="32" fill="rgba(46,134,171,0.1)" text-anchor="middle">TicketWhisperer Background</text>
 </svg>
